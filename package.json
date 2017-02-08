@@ -1,0 +1,19 @@
+{
+  "name": "looping_triangle",
+  "version": "1.0.0",
+  "description": "code challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbs5280/looping_triangle.git"
+  },
+  "author": "Kris Sparks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kbs5280/looping_triangle/issues"
+  },
+  "homepage": "https://github.com/kbs5280/looping_triangle#readme"
+}
